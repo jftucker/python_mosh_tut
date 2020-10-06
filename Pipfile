@@ -13,6 +13,7 @@ beautifulsoup4 = "*"
 selenium = "*"
 pypdf2 = "*"
 openpyxl = "*"
+numpy = "*"
 
 [requires]
 python_version = "3.8"
