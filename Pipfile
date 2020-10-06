@@ -8,6 +8,8 @@ pylint = "*"
 
 [packages]
 requests = "*"
+twilio = "*"
+beautifulsoup4 = "*"
 
 [requires]
 python_version = "3.8"
